@@ -1,1 +1,0 @@
-{"usuarios": [{"nombre": "hola", "contrasenia": "chau", "ubicacion": 1, "salud": 100, "dinero": 100, "items": ["Agua"]}, {"nombre": "kimberly", "contrasenia": "kim123", "ubicacion": 20, "salud": 100, "dinero": 34, "items": ["Agua", "Bolsa de dinero"]}, {"nombre": "test", "contrasenia": "test", "ubicacion": 1, "salud": 100, "dinero": 100, "items": []}]}
